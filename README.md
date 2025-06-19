@@ -12,10 +12,7 @@ A responsive dashboard application with news API integration and payout manageme
 - 📱 Fully Responsive Design
 - 📥 Export Options (CSV, PDF, Google Sheets)
 
-## Demo Credentials
 
-- **Regular User**: Any email/password
-- **Admin Access**: admin@example.com / any password
 
 ## Getting Started
 
@@ -29,7 +26,7 @@ A responsive dashboard application with news API integration and payout manageme
 
 1. Clone the repository
 \`\`\`bash
-git clone https://github.com/YOUR_USERNAME/news-dashboard.git
+git clone https://github.com/YOUR_USERNAME/news-dashboard-proj.git
 cd news-dashboard
 \`\`\`
 
